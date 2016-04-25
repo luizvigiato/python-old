@@ -9,7 +9,7 @@ from skimage import io
 import matplotlib.pyplot as plt
 import numpy as np
 
-im = io.imread("lenna.jpg")
+im = io.imread("talitinha.jpg")
 
 print(im.shape)
 lin,col,prof = im.shape
