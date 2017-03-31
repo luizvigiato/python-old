@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 15 09:21:32 2016
 
-@author: luiz
+@author: luiz vigiato
 """
 
 from skimage import io
